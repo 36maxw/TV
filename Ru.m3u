@@ -446,7 +446,6 @@ http://live.chechensoft.ru:1935/vainahtv/vaynahtv/playlist.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/chunklist_b400000.m3u8
 #EXTINF:-1,Первый
 http://iptv.ktkru.ru:8001/index.m3u8
-
 #EXTINF:-1,100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1,21 канал (Ужгород)
